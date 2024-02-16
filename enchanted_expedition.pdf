@@ -1,0 +1,1 @@
+print("Factorial of \(number) is \(factorial(number))")
