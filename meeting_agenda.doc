@@ -1,0 +1,1 @@
+target_value = random.choice(random_list)
